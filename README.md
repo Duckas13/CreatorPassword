@@ -19,5 +19,5 @@ abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789!@#$%&
 
 Ideal para criar senhas seguras para proteger suas contas!
 
-![Interface do Criador de Senhas](.assets/CreatorPassword.jpeg)
+![Interface do Criador de Senhas](CreatorPassword.jpeg)
 
