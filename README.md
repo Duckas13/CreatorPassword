@@ -1,4 +1,4 @@
-# **Creator Password**
+# **Password Creator**
 
 Creator Password é um site que permite criar senhas seguras de 5 a 25 caracteres, utilizando os seguintes caracteres:
 
